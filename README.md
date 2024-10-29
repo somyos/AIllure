@@ -1,6 +1,6 @@
 # AIllure
 - [AI](#AI)
-- [Prompt](prompt)
+- [Prompt](#Prompt)
 
 ## AI
    - [ChatGPT](https://chatgpt.com/)
