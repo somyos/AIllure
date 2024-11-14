@@ -1,8 +1,8 @@
 # AIllure
 - [AI](#AI)
 - [Prompt](#Prompt)
-- [Research]
-- [Visuals]
+- [Research](#Research)
+- [Visuals](#Visuals)
 
 ## AI
    - [ChatGPT](https://chatgpt.com/)
