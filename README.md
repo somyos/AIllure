@@ -1,5 +1,6 @@
 # AIllure
 - [AI](#AI)
+- [Automation](#Automation)
 - [Prompt](#Prompt)
 - [Research](#Research)
 - [Visuals](#Visuals)
@@ -8,12 +9,15 @@
    - [ChatGPT](https://chatgpt.com/)
    - [SCISPACE](https://typeset.io)
 
+## Automation
+   - [n8n](https://n8n.io/)
+
 ## Prompt
-  - [ANTHROP\C Prompt Library](https://docs.anthropic.com/en/prompt-library/library)
-  - [PromptHero](https://prompthero.com)
+   - [ANTHROP\C Prompt Library](https://docs.anthropic.com/en/prompt-library/library)
+   - [PromptHero](https://prompthero.com)
 
 ## Research
-  - [SciSpace](https://typeset.io)
+   - [SciSpace](https://typeset.io)
 
 ## Visuals
-  - [Napkin](https://www.napkin.ai)
+   - [Napkin](https://www.napkin.ai)
